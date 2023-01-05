@@ -1,15 +1,15 @@
 module.exports = {
-  url: "https://notes.desktopofsamuel.com",
+  url: "https://wingfoil.net",
   pathPrefix: "",
-  SITE_TITLE: "Obsidian Garden",
-  SITE_SUBTITLE: "Gatsby Starter Made for Obsidian Users",
+  SITE_TITLE: "Wingfoil Garden",
+  SITE_SUBTITLE: "Wingfoil Knowledge",
   SITE_DESCRIPTION:
-    "A Gatsby starter template to publish Obsidian vault for free",
-  KEYWORDS: "Gatsby, Starter, Obsidian, Digial Garden",
+    "A place to share my Wing Foil journey",
+  KEYWORDS: "Wing Foil, Foil Surf, Wingfoil, Wind Sports",
   HERO_TITLE:
     "Free Gatsby starter template to host your own digital garden for free, created for Obsidian knowledge base.",
-  HERO_SUBTITLE: "Designed by JUXT Design",
-  COPYRIGHT: "JUXT Design",
+  HERO_SUBTITLE: "Hive Brain, Inc.",
+  COPYRIGHT: "Hive Brain, Inc.",
   LOCALE: "en",
   POST_PER_PAGE: 6,
   MENU: [
@@ -41,7 +41,6 @@ module.exports = {
     },
   ],
   AUTHOR: {
-    NAME: "JUXT Design",
-    TWITTER: "@juxtdesigncc",
+    NAME: "M. Schneider",
   },
 };
